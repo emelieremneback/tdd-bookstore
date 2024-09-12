@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE.TDD.Bookstore", "TE.TDD.Bookstore\TE.TDD.Bookstore.csproj", "{B3BEEB2D-420E-4A3C-9AFE-8DEB43B709B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE.TDD.Bookstore.Tests", "TE.TDD.Bookstore.Tests\TE.TDD.Bookstore.Tests.csproj", "{B8872ED9-1F14-49EB-BFEC-B9D1EFEE6CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BEEB2D-420E-4A3C-9AFE-8DEB43B709B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BEEB2D-420E-4A3C-9AFE-8DEB43B709B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BEEB2D-420E-4A3C-9AFE-8DEB43B709B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BEEB2D-420E-4A3C-9AFE-8DEB43B709B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8872ED9-1F14-49EB-BFEC-B9D1EFEE6CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8872ED9-1F14-49EB-BFEC-B9D1EFEE6CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8872ED9-1F14-49EB-BFEC-B9D1EFEE6CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8872ED9-1F14-49EB-BFEC-B9D1EFEE6CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
